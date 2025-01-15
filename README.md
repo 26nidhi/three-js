@@ -2,6 +2,10 @@
 
 An interactive 3D globe visualization that displays real-time news events from around the world, with location-based markers determined by AI analysis.
 
+## Demo
+
+https://github.com/user-attachments/assets/63bd8166-7d15-453f-99dd-e3feeefb9867
+
 ## Features
 
 - Interactive 3D globe using Three.js
