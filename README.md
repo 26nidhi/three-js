@@ -4,7 +4,7 @@ An interactive 3D globe visualization that displays real-time news events from a
 
 ## Demo
 
-https://github.com/user-attachments/assets/63bd8166-7d15-453f-99dd-e3feeefb9867
+https://github.com/user-attachments/assets/1412a6bc-2a8e-472c-89a7-f3a79e29f88b
 
 ## Features
 
